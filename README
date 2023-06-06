@@ -1,0 +1,14 @@
+The goal of the project is to simulate a change in the balance of an online student language school. Balance - is the number of lessons each student has. 
+Stack: PostreSQL and Metabase. 
+In particular we estimate:
+- how many lessons were on the balance of students for each calendar day;
+- how this number changed when transactions (payments, accruals, corrective lists) and lessons (write-offs from the balance as the lessons were completed) were made.
+
+Outcome: A table where there are balances of each student for each day of training.
+___________________________________________________________________________________________________
+
+Цель проекта — смоделировать изменение балансов студентов языковой онлайн школы. Баланс — это количество уроков, которое есть у каждого студента. Стек: PostreSQL и Metabase. В частности:
+- сколько всего уроков было на балансе студентов за каждый календарный день;
+- как это количество менялось под влиянием транзакций (оплат, начислений, корректирующих списаний) и уроков (списаний с баланса по мере прохождения уроков).
+
+Итог:  Таблица, где присутствуют балансы каждого студента за каждый день обучения.
